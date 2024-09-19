@@ -52,3 +52,30 @@ This project highlights the power of data-driven storytelling by revealing insig
 **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
 
 **Code:** ['Code](https://github.com/komalvirk1801/PythonProjects/blob/main/Diwali%20Sales%20Data%20Analysis/Diwali_sales_data_Analysis.ipynb)
+
+
+### Coin Market Website Web scrapping and data analysis
+
+**Problem Statement:**
+
+**Analyzing Market Performance and Trading Dynamics of Cryptocurrencies:** The goal of this analysis is to evaluate the market performance of leading cryptocurrencies by comparing their key metrics: price, market capitalization, 24-hour trading volume, and circulating supply. This analysis will investigate the following:
+
+# Market Capitalization Analysis:
+
+Identify how different cryptocurrencies rank in terms of market capitalization.  
+Assess the dominance of top cryptocurrencies like Bitcoin and Ethereum in the overall crypto market.  
+
+# Price Comparison:
+
+Compare the price trends across top cryptocurrencies and evaluate which are considered high-value versus low-cost alternatives.    
+Highlight any significant price gaps and trends that might indicate market interest or speculative trading patterns.  
+
+# Volume Traded vs. Market Cap Correlation:
+
+Explore the relationship between the 24-hour trading volume and the market capitalization to understand liquidity and investor activity.  
+Determine whether high market cap cryptocurrencies also exhibit high trading volumes or if there are outliers.  
+
+# Market Cap Distribution:
+
+Visualize how the total market capitalization is distributed across the top 10 cryptocurrencies.  
+Analyze the share of smaller, emerging cryptocurrencies relative to the market giants to identify growth potential and diversification in the crypto space.  
