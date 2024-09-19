@@ -79,3 +79,9 @@ Determine whether high market cap cryptocurrencies also exhibit high trading vol
 
 Visualize how the total market capitalization is distributed across the top 10 cryptocurrencies.  
 Analyze the share of smaller, emerging cryptocurrencies relative to the market giants to identify growth potential and diversification in the crypto space.  
+
+**Skills**: Data cleaning, data analysis, data visualization, correlation matrices.
+
+**Technology**: Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy, BeautifulSoup, requests
+
+**Code:** ['Code](https://github.com/komalvirk1801/PythonProjects/blob/main/WebScrappingProject.ipynb)
